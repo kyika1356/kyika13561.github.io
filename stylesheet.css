@@ -1,15 +1,11 @@
-.title {
-    color: #02ccba;
-  }
-
-.header{
     background-color:aqua;
     height: 65px;
 }
 
 h1 {
     padding-left: 30px;
-    border-bottom: aqua 2px;
+    font-size: 30px;
+    
 }
 .main {
     background-color:rgba(216, 247, 245, 0.979);

@@ -6,3 +6,10 @@
     background-color:aqua;
     height: 30px;
 }
+
+.main {
+    padding-top: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}

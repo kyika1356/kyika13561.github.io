@@ -4,9 +4,9 @@
 }
 
 .title {
-     padding: 10px 35px;
+    padding: 10px 35px;
+   
 }
-
 h1 {
     padding-left: 30px;
     font-size: 30px;
@@ -17,6 +17,7 @@ h1 {
     padding-top: 25px;
     padding-left: 60px;
     padding-right: 60px;
+    font-family: sans-serif;
 
 }
 
@@ -27,5 +28,5 @@ li {
 .footer {
     background-color:rgb(65, 65, 65);
     height: 70px;
-    
+
 }
